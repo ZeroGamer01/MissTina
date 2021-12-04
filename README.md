@@ -15,4 +15,4 @@
 
 ### Credits
 * @ZeroGamer01 For Basic Code
-* [ME Cyber Boy Ayush](https://telegram.dog/cyberboyayush) For Other Work
+* [ZeroGamer01](https://telegram.dog/cyberboyayush) For Other Work
